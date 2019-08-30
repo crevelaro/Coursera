@@ -1,0 +1,2 @@
+io save the file, press ESC and then type “:wq” and hit Enter to save and return to the Git Bash terminal.
+Here, I am just using the Vim editor here because I am creating a file with only one line of code, and it let’s me make changes to the repository quickly. For real projects, you should use an Integrated Development Environment (IDE), such as Sublime or Atom. Just make sure that the files are saved to your repository directory.
